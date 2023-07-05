@@ -1,0 +1,5 @@
+1,PenHouse,15000000,on
+2,Vip Room,7000000,on
+3,Nomarl Room,4000000,on
+4,PenHouse,12000000,on
+5,Vip Room,5000000,on

@@ -1,0 +1,2 @@
+1;Customer [idCustomer=1, nameCustomer=Dang Thanh Vinh, emailCustomer=Vinh@gmail.com, phoneCustomer=090, usernameCustomer=vinh, passwordCustomer=vinh123];Service [idService=5, nameService=Vip Room, priceService=5000000, statusService=on];10
+
