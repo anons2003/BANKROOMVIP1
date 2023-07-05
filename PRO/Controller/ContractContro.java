@@ -18,7 +18,7 @@ public class ContractContro {
 
 public ArrayList<Contract> getAllContract() throws IOException {
     ct.clear();
-    FileReader file = new FileReader("Model//Contract.txt");
+    FileReader file = new FileReader("Model/Contract.txt");
     BufferedReader buffer = new BufferedReader(file);
     String result;
     while ((result = buffer.readLine()) != null) {
@@ -57,7 +57,7 @@ public ArrayList<Contract> getAllContract() throws IOException {
 
 
     public void WriteCN(Contract contract) throws IOException {
-        FileWriter fw = new FileWriter("Model//Contract.txt", true); // Chế độ ghi tiếp
+        FileWriter fw = new FileWriter("Model/Contract.txt", true); // Chế độ ghi tiếp
         BufferedWriter bw = new BufferedWriter(fw);
         String CnStr = "";
 
